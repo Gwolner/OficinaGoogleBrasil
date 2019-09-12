@@ -3,7 +3,7 @@
 
 O programa de empreendedorismo Startup In School Google Brasil, promovido no IFPE, realizou a oficina de Desenvolvido de Aplicativo onde foi desenvolvido um app para Android utilizando o App Inventor .
 
-(Imagem do logo IFPE + Evento)
+<img src="img/startupinschool.png">
 
 ## Sobre o App Inventor
 
