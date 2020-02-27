@@ -15,3 +15,4 @@ Você pode conhecer mais do projeto clicando [aqui!](https://appinventor.mit.edu
 
 O foco da oficina foi apresentar a feramenta e seus elementos para que fosse possível desenvolver um app de rádio, não se preocupando com seu design e sim com a didática e a comprensão da lógica de programação por parte dos participantes. 
 
+<img src="img/volume1.png" width="360" height="640"  align="center"> <img src="img/volume2.png" width="360" height="640" align="center">
