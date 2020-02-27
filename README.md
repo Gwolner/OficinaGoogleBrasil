@@ -19,16 +19,16 @@ O foco da oficina foi apresentar a feramenta e seus elementos para que fosse pos
 
 Permite escolher a estação de rádio, pausar, continuar, parar transmissão, ajustar volume e mudar para uma tela secundária.
 
-<img src="img/volume1.png" width="360" height="640"> <img src="img/volume2.png" width="360" height="640">
+<img src="img/volume1.png" width="288" height="512"> <img src="img/volume2.png" width="288" height="512">
 
 ### Estações de rádio
 
 Exibe as rádios dispóniveis.
 
-<img src="img/estacoes.png" width="360" height="640"> 
+<img src="img/estacoes.png" width="288" height="512"> 
 
 ### Tela secundária
 
 Tela criada apenas com propósito de compreender a transição de uma tela à outra e visualizar mais alguns elementos disponíveis no App Inventor.
 
-<img src="img/texto1.png" width="360" height="640"> <img src="img/texto2.png" width="360" height="640">
+<img src="img/texto1.png" width="288" height="512"> <img src="img/texto2.png" width="288" height="512">
