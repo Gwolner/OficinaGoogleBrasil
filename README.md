@@ -1,7 +1,6 @@
 # Startup In School Google Brasil
 
-
-O programa de empreendedorismo Startup In School Google Brasil, promovido no IFPE, realizou a <b>Oficina de Desenvolvido de Aplicativo</b> onde foi desenvolvido um app para Android utilizando a ferramenta App Inventor .
+> O programa de empreendedorismo Startup In School Google Brasil, promovido no IFPE, realizou a <b>Oficina de Desenvolvido de Aplicativo</b> onde foi desenvolvido um app para Android utilizando a ferramenta App Inventor .
 
 <img src="img/startupinschool.png">
 
